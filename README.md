@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesusugarte10
 - 👀 I’m interested in Space Exploration
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence | Computer Vision
 - 📫 How to reach me jugarteosta@knights.ucf.edu
 
 <!---
