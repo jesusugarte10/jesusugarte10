@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesusugarte10
 - 👀 I’m interested in Space Exploration
-- 🌱 I’m currently learning Computer Vision | Mixed Reality
+- 🌱 Mobile Development Secured|Computer Vision | Mixed Reality
 - 📫 Reach me jugarteosta@knights.ucf.edu
 
 <!---
